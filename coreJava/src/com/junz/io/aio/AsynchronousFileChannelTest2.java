@@ -17,7 +17,7 @@
 
 package com.junz.io.aio;
 
-import com.junz.nio.ByteBufferUtils;
+import com.junz.io.nio.ByteBufferUtils;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

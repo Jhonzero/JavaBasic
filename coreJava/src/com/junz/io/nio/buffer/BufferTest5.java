@@ -1,6 +1,6 @@
 package com.junz.io.nio.buffer;
 
-import com.junz.nio.ByteBufferUtils;
+import com.junz.io.nio.ByteBufferUtils;
 
 import java.nio.ByteBuffer;
 
