@@ -28,7 +28,7 @@ import java.util.Arrays;
  *
  */
 
-public class ArrayCopyDemo {
+public class ArrayCopySpeedTest {
 
     private static final byte[] buffer = new byte[1024*10];
     static {
