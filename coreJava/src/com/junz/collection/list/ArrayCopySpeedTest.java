@@ -1,4 +1,4 @@
-package com.junz.collection.array;
+package com.junz.collection.list;
 
 import java.util.Arrays;
 
