@@ -1,4 +1,4 @@
-package com.junz.designPattern;
+package com.junz.designPattern.singletonPattern;
 
 /**
  * 单例模式---双重校验锁
